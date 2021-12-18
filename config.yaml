@@ -42,7 +42,7 @@ params:
   logo: /logo.png
   showActiveNav: false
   containerMaxWidth: 70em
-  logoMaxWidth: 30em
+  logoMaxWidth: 70%
   dateFormat: Jan 2, 2006
   homeText: For your web development, cybersecurity and game server needs.
   footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)

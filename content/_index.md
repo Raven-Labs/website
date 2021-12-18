@@ -5,5 +5,5 @@ draft: true
 ---
 ![logo](/logo.svg)
 ## 
-### We provide services for organisations and individuals looking to expand into the modern environment.
+### We provide services for organisations and individuals looking to expand into the modern digital environment.
 
