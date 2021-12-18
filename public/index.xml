@@ -2,9 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Raven Labs</title>
-    <link>http://example.org/</link>
+    <link>https://ravenlabs.dev/</link>
     <description>Recent content on Raven Labs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Dec 2021 19:39:54 +0000</lastBuildDate><atom:link href="https://ravenlabs.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://ravenlabs.dev/contact/</link>
+      <pubDate>Sat, 18 Dec 2021 18:58:41 +0000</pubDate>
+      
+      <guid>https://ravenlabs.dev/contact/</guid>
+      <description>General Enquiries: admin@ravenlabs.dev
+Contact Staff: James: jstone@ravenlabs.dev
+Joe: jhill@ravenlabs.dev</description>
+    </item>
+    
+    <item>
+      <title>Webdev</title>
+      <link>https://ravenlabs.dev/webdev/</link>
+      <pubDate>Sat, 18 Dec 2021 18:58:31 +0000</pubDate>
+      
+      <guid>https://ravenlabs.dev/webdev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minecraft Server Hosting</title>
+      <link>https://ravenlabs.dev/mc/</link>
+      <pubDate>Sat, 18 Dec 2021 18:58:24 +0000</pubDate>
+      
+      <guid>https://ravenlabs.dev/mc/</guid>
+      <description>We can set up and host professional quality custom Minecraft servers, adapted to your needs.</description>
+    </item>
+    
+    <item>
+      <title>Secure Phones</title>
+      <link>https://ravenlabs.dev/secure-phones/</link>
+      <pubDate>Sat, 18 Dec 2021 18:43:42 +0000</pubDate>
+      
+      <guid>https://ravenlabs.dev/secure-phones/</guid>
+      <description>Overview We can provide you with a modern mobile phone with high security and privacy, by installing a secure OS free from Google&amp;rsquo;s invasive tactics which is called GrapheneOS. We will also provision some setup on this phone.
+Optionally, we can set up a secondary area on your phone which has some Google services, albeit less invasive than the average smartphone and completely separated from your main area, keeping your data safe.</description>
+    </item>
+    
   </channel>
 </rss>
