@@ -26,11 +26,11 @@ menu:
     weight: 2
   - name: Minecraft
     pre: box
-    url: /mc/
+    url: /minecraft/
     weight: 3
   - name: Websites
     pre: monitor
-    url: /webdev/
+    url: /websites/
     weight: 4
   - name: Contact
     pre: message-square
@@ -39,8 +39,10 @@ menu:
 
 params:
   includeBootstrapJs: false
-  showActiveNav: true
-  containerMaxWidth: 700px
+  logo: /logo.png
+  showActiveNav: false
+  containerMaxWidth: 70em
+  logoMaxWidth: 30em
   dateFormat: Jan 2, 2006
   homeText: For your web development, cybersecurity and game server needs.
   footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
