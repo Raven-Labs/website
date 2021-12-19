@@ -17,7 +17,7 @@ We can offer you a choice of two models of secure phone: one based on the Pixel 
 |--------------------------------------------|---------------------------------------------|
 | ![Pixel 6](/images/p6.png)| ![Pixel 4a](/images/p4a.png)|
 | 6.2 Inch Screen (measured diagonally)|5.8 Inch Screen (measured diagonally)|
-| Security updates until 2026 | Security updates until 2023 |
+| Security updates until October 2026 | Security updates until August 2023 |
 | Price: £750 | Price: £450 |
 
 ## Provide your own phone

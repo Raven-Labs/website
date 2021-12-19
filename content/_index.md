@@ -1,5 +1,4 @@
 ---
-title: ""
 date: 2021-12-18T19:39:54Z
 draft: true
 ---
