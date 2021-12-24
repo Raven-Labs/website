@@ -1,0 +1,3 @@
+[submodule "themes/vanilla"]
+	path = themes/vanilla
+	url = https://github.com/raven-labs/vanilla-bootstrap-hugo-theme
