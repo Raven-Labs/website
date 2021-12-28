@@ -79,3 +79,8 @@ markup:
   tableOfContents:
     endLevel: 6
     startLevel: 2
+  
+deployment:
+  targets:
+    - name: "production"
+      URL: "s3://ravenlabs.dev?region=eu-west-1"
