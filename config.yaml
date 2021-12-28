@@ -45,8 +45,8 @@ params:
   logoMaxWidth: 70%
   dateFormat: Jan 2, 2006
   homeText: For your web development, cybersecurity and game server needs.
-  footerText: Made with [Hugo](https://gohugo.io/) & [Vanilla](https://github.com/zwbetz-gh/vanilla-bootstrap-hugo-theme)
-  hideFooter: true
+  footerText: © Copyright 2021 Raven Labs Limited
+  hideFooter: false
   katex: true
 
 markup:

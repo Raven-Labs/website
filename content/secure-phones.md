@@ -25,6 +25,7 @@ We can offer you a choice of two models of secure phone: one based on the Pixel 
 | 6.2 Inch Screen|5.8 Inch Screen|
 | Security updates until October 2026 | Security updates until August 2023 |
 | Price: £750 | Price: £450 |
+| <button onclick="window.location.href='https://buy.stripe.com/aEU5lLaZyaFz8yQ3cf';">Purchase</button>| <button onclick="window.location.href='https://buy.stripe.com/28ocOd3x62937uM9AC';">Purchase</button>|
 
 Prices exclude the flat shipping cost of £15. Unfortunately, we cannot ship outside of the UK.
 
@@ -33,6 +34,6 @@ Got a Google Pixel 4a or 6 which you would like de-googling? We can do that for 
 
 ## Interested?
 
-Please [contact us](/contact)
+Use the Purchase buttons in the table above to buy a secure phone from us. If you have any special requests, such as installing minimal sandboxed Google Play services in a separate area, please [contact us](/contact).
 
 Please note that we have no affilliation to Google or GrapheneOS. Please report issues with the OS in the GrapheneOS support group at [#grapheneos:grapheneos.org](https://matrix.to/#/#grapheneos:grapheneos.org) on Matrix.
