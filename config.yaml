@@ -84,3 +84,4 @@ deployment:
   targets:
     - name: "production"
       URL: "s3://ravenlabs.dev?region=eu-west-1"
+      cloudFrontDistributionID: 'E1RE9FUPNQYYFM'
