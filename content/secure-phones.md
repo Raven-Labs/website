@@ -15,7 +15,7 @@ At Raven Labs we understand the importance of truely private communication so ou
 ## Phone Choice
 Ironically, according to our research the Google Pixel line of phones are the most secure and best phones to de-google. This is because of the dedicated security chips developed by Google, and Google's decision to let you remove the built in Google software and replace it with custom software if you so choose.
 
-You may have heard of other privacy-orientated mobile operating systems, such as LineageOS and CalyxOS, although these have some serious security shortcomings. In LineageOS's case is the weakening of built in protections to allow for wider phone compatibility, and in CalyxOS's case their inclusion of a half-baked unsecure reimplementation of Google's software weakens the overall security of the phone.
+You may have heard of other privacy-orientated mobile operating systems, such as LineageOS and CalyxOS, however these have some serious security shortcomings. In LineageOS's case this the weakening of built in protections to allow for wider phone compatibility, and in CalyxOS's case their inclusion of a half-baked unsecure reimplementation of Google's software weakens the overall security of the phone.
 
 The Linux distros for phones in their current state are quite unstable and more difficult to use. On top of this, Linux phones have much lower hardware security, as well as weaker security restrictions for apps compared to what Android-based operating systems have.
 
