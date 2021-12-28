@@ -22,7 +22,7 @@ menu:
     weight: 1
   - name: Secure Phones
     pre: smartphone
-    url: /secure-phones
+    url: /secure-phones/
     weight: 2
   - name: Minecraft
     pre: box
