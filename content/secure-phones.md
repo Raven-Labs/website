@@ -6,18 +6,11 @@ draft: true
 
 ## Overview
 
-We provide secure modern smartphones that respect your privacy. We install a secure OS that isn't controlled by Google called GrapheneOS. Phones are set up to your specification with essential apps and features that respect your privacy while allowing users to enjoy their high-end device without data collection and tracking.
+We provide secure modern smartphones that respect your privacy. On these phones we install a secure operating system which isn't controlled by Google, called GrapheneOS. Phones are set up to your specification with essential apps and features that respect your privacy while allowing users to enjoy their device without data collection and tracking.
 
 Optionally, we can set up some Google services in a restricted jail to let users install apps that require google code (commonly games and banking apps) while still keeping your private photos, files and messages far away from Google.
 
-At Raven Labs we understand the importance of truely private communication so our phones come with a guide on the best apps for keeping chats private and out of reach of companies and governments that censor and survail private communications.
-
-## Phone Choice
-Ironically, according to our research the Google Pixel line of phones are the most secure and best phones to de-google. This is because of the dedicated security chips developed by Google, and Google's decision to let you remove the built in Google software and replace it with custom software if you so choose.
-
-You may have heard of other privacy-orientated mobile operating systems, such as LineageOS and CalyxOS, however these have some serious security shortcomings. In LineageOS's case this the weakening of built in protections to allow for wider phone compatibility, and in CalyxOS's case their inclusion of a half-baked unsecure reimplementation of Google's software weakens the overall security of the phone.
-
-The Linux distros for phones in their current state are quite unstable and more difficult to use. On top of this, Linux phones have much lower hardware security, as well as weaker security restrictions for apps compared to what Android-based operating systems have.
+At Raven Labs we understand the importance of truly private communication so our phones come with a high quality print guide on the best apps for keeping chats private and out of reach of corporations and governments who want to censor and surveil private communications.
 
 We offer two types of secure smartphone: one based on the Pixel 4a and another based on the more recent Pixel 6.
 
@@ -30,6 +23,13 @@ We offer two types of secure smartphone: one based on the Pixel 4a and another b
 | <button onclick="window.location.href='https://buy.stripe.com/aEU5lLaZyaFz8yQ3cf';">Purchase</button>| <button onclick="window.location.href='https://buy.stripe.com/28ocOd3x62937uM9AC';">Purchase</button>|
 
 Prices exclude the flat shipping cost of £15. For shipping outside of the UK please [contact us](/contact)
+
+## Why we chose the Google Pixel
+Ironically, according to our research the Google Pixel line of phones are the most secure and best phones to de-google. This is because of the dedicated security chips developed by Google, and Google's decision to let you remove the built in Google software and replace it with custom google-free software if you so choose.
+
+You may have heard of other privacy-orientated mobile operating systems which can run on non-pixel phones, such as LineageOS and CalyxOS, however these have some serious security shortcomings. In LineageOS's case this the weakening of built in protections to allow for wider phone compatibility, and in CalyxOS's case their inclusion of a half-baked unsecure reimplementation of Google's software weakens the overall security of the phone.
+
+The Linux distros for phones in their current state are quite unstable and more difficult to use. On top of this, Linux phones have much lower hardware security, as well as weaker security restrictions for apps compared to what Android-based operating systems have.
 
 ## Provide your own phone
 Got a Google Pixel 4a or 6 which you would like de-googling? Contact us for more information.
