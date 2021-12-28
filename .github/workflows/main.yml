@@ -20,7 +20,7 @@ jobs:
         with:
           submodules: 'recursive'
       - name: Deploy site
-        uses: AlbertMorenoDEV/deploy-hugo-to-s3-action@v0.0.3
+        uses: JamesVStone/deploy-hugo-to-s3-action@main
         with:
           hugo-version: 0.89.0
           target: production
