@@ -45,7 +45,7 @@ params:
   logoMaxWidth: 70%
   dateFormat: Jan 2, 2006
   homeText: For your web development, cybersecurity and game server needs.
-  footerText: © Copyright 2021 Raven Labs Limited
+  footerText: © Copyright 2021-2022 Raven Labs Limited
   hideFooter: false
   katex: true
 
