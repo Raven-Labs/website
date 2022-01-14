@@ -36,6 +36,6 @@ Got a Google Pixel 4a or 6 which you would like de-googling? Contact us for more
 
 ## Interested?
 
-Use the Purchase buttons in the table above to buy a secure phone from us. If you have any special requests, such as installing minimal sandboxed Google Play services, please [contact us](/contact).
+Use the Purchase buttons in the table above to buy a secure phone from us. If you have any special requests, such as installing a minimal set of google apps which are completely sandboxed for security, please [contact us](/contact). For more information about GrapheneOS's google app sandboxing, see [grapheneos.org/usage](https://grapheneos.org/usage#sandboxed-google-play)
 
-Please note that we have no affilliation to Google or GrapheneOS. Please report issues with the OS in the GrapheneOS support group at [#grapheneos:grapheneos.org](https://matrix.to/#/#grapheneos:grapheneos.org) on Matrix.
+Please note that we have no affilliation to Google or GrapheneOS. Please report issues with the OS in the GrapheneOS support group at [#grapheneos:grapheneos.org](https://matrix.to/#/#grapheneos:grapheneos.org) on Matrix. You can obtain an app to access the Matrix chat network from [element.io](https://element.io)
