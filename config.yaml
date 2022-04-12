@@ -24,18 +24,14 @@ menu:
     pre: smartphone
     url: /secure-phones/
     weight: 2
-  - name: Minecraft
-    pre: box
-    url: /minecraft/
-    weight: 3
   - name: Websites
     pre: monitor
     url: /websites/
-    weight: 4
+    weight: 3
   - name: Contact
     pre: message-square
     url: /contact/
-    weight: 5
+    weight: 4
 
 params:
   includeBootstrapJs: false
