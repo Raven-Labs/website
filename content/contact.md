@@ -1,7 +1,6 @@
 ---
 title: "Contact"
 date: 2021-12-18T18:58:41Z
-draft: true
 ---
 
 ## General Enquiries:
