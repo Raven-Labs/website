@@ -1,7 +1,6 @@
 ---
 title: "Secure Phones"
-date: 2022-06-12T18:43:42
-draft: false
+date: 2022-06-12T18:43:42z
 ---
 
 ## Overview
