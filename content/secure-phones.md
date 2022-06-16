@@ -13,16 +13,18 @@ At Raven Labs we understand the importance of truly private communication so our
 
 Currently we only offer the Pixel 6, however in the future we will support the Pixel 6a as a cheaper option. We used to offer an option of the Pixel 4a, however that now has less than a year of security updates left so we no longer recommend buying it. If you have an existing Pixel 4a you would like us to de-google we are happy to do that for you.
 
-|Pixel 6| Pixel 6A |
+| Pixel 6 | Pixel 6A |
 |--------------------------------------------|---------------------------------------------|
 | ![Pixel 6](/images/p6.png)| ![Pixel 6a](/images/p6a.png)|
 | 6.4 Inch Screen | 6.1 Inch Screen |
 | Security updates until October 2026 | Security updates until approx August 2027 |
-| [Full Specifications](https://store.google.com/product/pixel_6a?hl=en-GB) | [Full Specifications](https://store.google.com/product/pixel_6?hl=en-GB) |
+| [Full Specifications](https://store.google.com/product/pixel_6?hl=en-GB) | [Full Specifications](https://store.google.com/product/pixel_6a?hl=en-GB) |
 | Price: £750 | Price: £520 |
 | <button onclick="window.location.href='https://buy.stripe.com/aEU5lLaZyaFz8yQ3cf';">Purchase</button> | Coming Soon |
 
 Prices exclude the flat shipping cost of £15. For shipping outside of the UK please [contact us](/contact).
+
+If you have a preference of colour, please email us as soon as you make the purchase, so we can get the right colour. If you don't specify, we will send you a black one.
 
 ## Why we chose the Google Pixel
 According to our research, the Google Pixel line of phones are the most secure and best phones to de-google. This is because of the dedicated security chips developed by Google, and Google's decision to let you remove the built in Google software and replace it with custom google-free software if you so choose.
