@@ -18,7 +18,7 @@ Currently we only offer the Pixel 6, however in the future we will support the P
 | ![Pixel 6](/images/p6.png)| ![Pixel 6a](/images/p6a.png)|
 | 6.4 Inch Screen | 6.1 Inch Screen |
 | Security updates until October 2026 | Security updates until approx August 2027 |
-| [Full Specifications](https://store.google.com/product/pixel_6a?hl=en-GB) | [Full Specifications](https://store.google.com/product/pixel_6?hl=en-GB) |
+| [Full Specifications](https://store.google.com/product/pixel_6?hl=en-GB) | [Full Specifications](https://store.google.com/product/pixel_6a?hl=en-GB) |
 | Price: £750 | Price: £520 |
 | <button onclick="window.location.href='https://buy.stripe.com/aEU5lLaZyaFz8yQ3cf';">Purchase</button> | Coming Soon |
 
