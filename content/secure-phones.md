@@ -19,10 +19,11 @@ Currently we only offer the Pixel 6, however in the future we will support the P
 | 6.4 Inch Screen | 6.1 Inch Screen |
 | Security updates until October 2026 | Security updates until August 2027 |
 | [Full Specifications](https://store.google.com/product/pixel_6?hl=en-GB) | [Full Specifications](https://store.google.com/product/pixel_6a?hl=en-GB) |
-| Price: £750 | Price: £520 |
-| <button onclick="window.location.href='https://buy.stripe.com/aEU5lLaZyaFz8yQ3cf';">Purchase</button> | <button onclick="window.location.href='https://buy.stripe.com/bIY4hH1oY6pjbL2004';">Purchase</button> |
+| Price: ~~£750~~ £620 | Price: £520 |
+| <button onclick="window.location.href='https://buy.stripe.com/dR64hH2t23d716o4gm';">Purchase</button> | <button onclick="window.location.href='https://buy.stripe.com/dR64hH9Vu8xr02k5kp';">Purchase</button> |
 
-Prices exclude the flat shipping cost of £15, which will be automatically added at checkout. For shipping outside of the UK please [contact us](/contact).
+
+We will ship for free to anywhere in the UK. For shipping outside of the UK please [contact us](/contact).
 
 If you have a preference of colour, please email us as soon as you make the purchase, so we can get the right colour. If you don't specify, we will send you a black one.
 
