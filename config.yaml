@@ -24,14 +24,10 @@ menu:
     pre: smartphone
     url: /secure-phones/
     weight: 2
-  - name: Websites
-    pre: monitor
-    url: /websites/
-    weight: 3
   - name: Contact
     pre: message-square
     url: /contact/
-    weight: 4
+    weight: 3
 
 params:
   includeBootstrapJs: false
